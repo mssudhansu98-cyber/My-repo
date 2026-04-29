@@ -7,14 +7,13 @@ It follows modern technical writing practices including task-based documentation
 
 ##  Table of Contents
 
-- [Introduction](introduction.md)
-- [Getting Started](getting-started.md)
-- [Search Flights](search-flights.md)
-- [Book a Ticket](booking.md)
-- [Cancel a Booking](cancellation.md)
-- [View Offers](offers.md)
-- [FAQ](faq.md)
-
+- Introduction
+- Getting Started
+- Search Flights
+- Book a Ticket
+- Cancel a Booking
+- View Offers
+- FAQ
 ---
 
 ##  Objective
