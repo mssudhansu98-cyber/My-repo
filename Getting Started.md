@@ -1,4 +1,4 @@
-# Getting started
+# Getting Started
 ## Prerequisites
 - Smartphone(Android or iOS)
 - Internet connection
