@@ -1,4 +1,4 @@
-# Book a Fligh Ticket
+# Book a Flight Ticket
 
 ## Prerequisite
 - Logged-in user
