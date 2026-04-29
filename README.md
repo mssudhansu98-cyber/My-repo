@@ -1,19 +1,35 @@
-# MakeMy Trip user guide
-This repository provides a structured user guide for the MakeMy Trip mobile application.
-The guide follows modern technical writing practices including task based documentation, modular content, and user focused instructions.
+# ✈️ MakeMyTrip User Guide
 
-## Features covered
-- Search flights
-- Book Tickets
-- Cancel Bookings
-- View offers
-- Manage Trips
+This repository contains a structured user guide for the MakeMyTrip mobile application.  
+It follows modern technical writing practices including task-based documentation and modular content.
 
-## Objectives
-To help users efficiently navigate and use MakeMy Trip application.
+---
 
-## Tools and standards
-- Markdown
-- Github
+##  Table of Contents
+
+- [Introduction](introduction.md)
+- [Getting Started](getting-started.md)
+- [Search Flights](search-flights.md)
+- [Book a Ticket](booking.md)
+- [Cancel a Booking](cancellation.md)
+- [View Offers](offers.md)
+- [FAQ](faq.md)
+
+---
+
+##  Objective
+
+To help users easily understand and use the MakeMyTrip application.
+
+---
+
+## Documentation Approach
+
 - Task-based writing
-- Structured Documentation
+- Step-by-step instructions
+- Simple and clear language
+- Consistent formatting
+
+
+
+
