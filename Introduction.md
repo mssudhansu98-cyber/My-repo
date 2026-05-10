@@ -1,6 +1,6 @@
 # Introduction
 
-MakeMy Trip is a online travel platform that allows users to book flights, hotels, and holiday packages.
+MakeMyTrip is a online travel platform that allows users to book flights, hotels, and holiday packages.
 
 ## Key Features
 
