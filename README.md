@@ -1,4 +1,4 @@
-# ✈️ MakeMyTrip User Guide
+# MakeMyTrip User Guide
 
 This repository contains a structured user guide for the MakeMyTrip mobile application.  
 It follows modern technical writing practices including task-based documentation and modular content.
